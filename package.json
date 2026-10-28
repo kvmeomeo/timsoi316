@@ -1,0 +1,14 @@
+{
+  "name": "masoi-nightfall",
+  "version": "2.0.0",
+  "description": "Ma Sói Nightfall — chơi online trên điện thoại và máy tính",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
